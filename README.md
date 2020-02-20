@@ -9,7 +9,7 @@ Technologies Used
 HTML and CSS (Bootstrap). JavaScript (jQuery)
 
 Link to live site
-https://github.com/Josephnyingi/Akan-names
+https://josephnyingi.github.io/Akan/.
 
 License
 MIT copyrght (c) 2020 Joseph Nyingi
